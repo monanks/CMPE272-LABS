@@ -1,0 +1,113 @@
+.jumbotron {
+  background: #532F8C;
+  color: white;
+  padding-bottom: 80px;
+}
+.jumbotron .btn-primary {
+  background: #845ac7;
+  border-color: #845ac7;
+}
+.jumbotron .btn-primary:hover {
+  background: #7646c1;
+}
+.jumbotron p {
+  color: #d9ccee;
+  max-width: 75%;
+  margin: 1em auto 2em;
+}
+.jumbotron h1 {
+  font-size: 40px;
+}
+.navbar + .jumbotron {
+  margin-top: -20px;
+}
+.jumbotron .lang-logo {
+  display: block;
+  background: #B01302;
+  border-radius: 50%;
+  overflow: hidden;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  border: 2px solid white;
+}
+.jumbotron .lang-logo img {
+  max-width: 100%;
+}
+.tronabout {
+    margin-top: -20px;
+    color: cadetblue;
+	padding-top: 100px;
+    padding-bottom: 10px;
+	font-size: x-large;
+}
+.abouttitle {
+	background: #222222;
+}
+.aboutbox {
+	color: cadetblue;
+}
+.back{
+	background: #222222
+}
+.homebox{
+	font-size: x-large;
+	color: white;
+  text-align: center;
+}
+.carbox{
+	height: -webkit-fill-available;
+}
+.myitem{
+  font-weight: 100;
+  font-size: 20px;
+  color: white;
+}
+.myrow{
+  height: 80px;
+  width: 100%;
+  background-color: rgba(238,110,115,.9);
+  
+  margin-top: 0px;
+  padding-top: 24px;
+  box-shadow: 0px 2px 5px #000000;
+}
+.newitem{
+  margin-right: 20px;
+}
+.dropdown-menu{
+  margin-left: 40%;
+}
+.newrow{
+  float:right;
+}
+.cbox{
+  padding-top: 50px;
+  margin-top: 0px;
+  overflow: auto;
+}
+.dbox{
+  padding-top: 0px;
+}
+.mycol{
+  
+}
+.input-field{
+  margin: 0px 20px;
+  width: 300px;
+  float: left;
+}
+.error{
+  float: left;
+  color: red;
+}
+.succ{
+  float: left;
+  color: green;
+}
+.input{
+  color: white;
+}
+.search{
+  width: 250px;
+}
